@@ -5,6 +5,9 @@
 * [J.A.R.V.I.S-Python-AI](https://github.com/programmingfire/J.A.R.V.I.S-Python-AI)
 * [My Blog/Website](https://github.com/programmingfire/website)
 * [My Dotfiles](https://github.com/programmingfire/dotfiles)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingfire)](https://github.com/anuraghazra/github-readme-stats)
+
 - You Can Find Me On Most Of Social Media
 * Youtube - https://www.youtube.com/programmingfire
 * Discord - https://discord.gg/DnJZufgzEx​
@@ -12,10 +15,9 @@
 * Facebook - https://www.facebook.com/nouman.rahma...​
 * Twitter - https://twitter.com/TechCode6​
 - My Favourite Technologies Are - 
-* [Angular](https://angular.io/)
+* [React.js](https://reactjs.org/)
+* [Next.js](https://nextjs.org/)
 * [Node.js](https://nodejs.org/)
-* [NestJS](https://nestjs.com/)
 * [Typescript](https://typescriptlang.org/)
-* [MySQL](https://mysql.org/)
-* [MongoDB](https://mongodb.com/)
+* [PostgreSQL](https://postgresql.org/)
 * [GraphQL](https://graphql.org/)
