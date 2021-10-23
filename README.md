@@ -1,6 +1,6 @@
 - Hi, I’m @programmingfire
 - I’m interested in Programming
-- I’m currently learning Django
+- I’m currently learning D3.js
 - My Projects - 
 * [J.A.R.V.I.S-Python-AI](https://github.com/programmingfire/J.A.R.V.I.S-Python-AI)
 * [My Blog/Website](https://github.com/programmingfire/website)
