@@ -6,7 +6,7 @@
 * [My Blog/Website](https://github.com/programmingfire/website)
 * [My Dotfiles](https://github.com/programmingfire/dotfiles)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingfire)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingfire&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 - You Can Find Me On Most Of Social Media
 * Youtube - https://www.youtube.com/programmingfire
