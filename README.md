@@ -4,7 +4,7 @@
 
 ---
 
-- My Projects -
+### 🏆 My Projects -
 
 * [J.A.R.V.I.S-Python-AI](https://github.com/programmingfire/J.A.R.V.I.S-Python-AI)
 * [My Blog/Website](https://github.com/programmingfire/website)
@@ -30,7 +30,7 @@
 
 ---
 
-- 💻 You Can Find Me On Most Of Social Media
+### 💻 You Can Find Me On Most Of Social Media
 
 * Youtube - https://www.youtube.com/programmingfire
 * Discord - https://discord.gg/DnJZufgzEx​
@@ -40,7 +40,7 @@
 
 ---
 
-- ⚙ My Favourite Technologies Are -
+### ⚙ My Favourite Technologies Are -
 
 * [Angular](https://angular.io/)
 * [Node.js](https://nodejs.org/)
