@@ -19,6 +19,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Create A REST API In NestJS ! | NestJS Tutorial For Beginners | ProgrammingFire](https://www.youtube.com/watch?v=q488cm7UQIo)
+- [Learn TypeScript - The Basics | TypeScript Tutorial | ProgrammingFire](https://www.youtube.com/watch?v=gmxI1zjckPQ)
+- [Use State React Hook Tutorial | React Hooks | ProgrammingFire](https://www.youtube.com/watch?v=byjd7n153jc)
+- [ExpressJS Tutorial For Beginners | Learn ExpressJS | ProgrammingFire](https://www.youtube.com/watch?v=HVbViAOxjpw)
+- [ReactJS Tutorial For Beginners | Learn React In 1 Hour | ProgrammingFire](https://www.youtube.com/watch?v=9lytYRcnnU4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/ProgrammingFire)
