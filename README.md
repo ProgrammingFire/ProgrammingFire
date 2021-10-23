@@ -12,9 +12,10 @@
 * Facebook - https://www.facebook.com/nouman.rahma...​
 * Twitter - https://twitter.com/TechCode6​
 - My Favourite Technologies Are - 
-* [React.js](https://reactjs.org/)
-* [Next.js](https://nextjs.org/)
+* [Angular](https://angular.io/)
 * [Node.js](https://nodejs.org/)
+* [Node.js](https://nestjs.com/)
 * [Typescript](https://typescriptlang.org/)
-* [PostgreSQL](https://postgresql.org/)
+* [MySQL](https://mysql.org/)
+* [MongoDB](https://mongodb.com/)
 * [GraphQL](https://graphql.org/)
