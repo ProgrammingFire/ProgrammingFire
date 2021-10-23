@@ -37,9 +37,10 @@
 
 - ⚙ My Favourite Technologies Are -
 
-* [React.js](https://reactjs.org/)
-* [Next.js](https://nextjs.org/)
+* [Angular](https://angular.io/)
 * [Node.js](https://nodejs.org/)
+* [NestJS](https://nestjs.com/)
 * [Typescript](https://typescriptlang.org/)
-* [PostgreSQL](https://postgresql.org/)
+* [MySQL](https://mysql.org/)
+* [MongoDB](https://mongodb.com/)
 * [GraphQL](https://graphql.org/)
