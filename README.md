@@ -14,7 +14,7 @@
 - My Favourite Technologies Are - 
 * [Angular](https://angular.io/)
 * [Node.js](https://nodejs.org/)
-* [Node.js](https://nestjs.com/)
+* [NestJS](https://nestjs.com/)
 * [Typescript](https://typescriptlang.org/)
 * [MySQL](https://mysql.org/)
 * [MongoDB](https://mongodb.com/)
