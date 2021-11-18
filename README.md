@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @programmingfire
 - 👀 I’m interested in Programming
-- 📚 I’m currently learning D3.js
+- 📚 I’m currently learning [Laravel](https://laravel.com/)
 
 ---
 
