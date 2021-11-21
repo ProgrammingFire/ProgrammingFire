@@ -12,11 +12,11 @@
 
 ---
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingfire)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingfire&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=programmingfire)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=programmingfire&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
