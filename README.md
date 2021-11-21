@@ -44,6 +44,12 @@
 
 ---
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/techcode6?label=Follow%20On%20Twitter&style=social)](https://twitter.com/techcode6)
+<br>
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCWOD0-JKR1WfpEf_MhdY2pw?label=Subscribe%20On%20YouTube&style=social)](https://youtube.com/c/ProgrammingFire)
+
+---
+
 ### ⚙ My Favourite Technologies Are -
 
 * [Angular](https://angular.io/)
