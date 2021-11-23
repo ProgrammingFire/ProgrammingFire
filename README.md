@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @programmingfire
 - 👀 I’m interested in Programming
-- 📚 I’m currently learning [Laravel](https://laravel.com/)
+- 📚 I’m currently learning [Machine Learning](https://jovian.ai/learn/machine-learning-with-python-zero-to-gbms)
 
 ---
 
