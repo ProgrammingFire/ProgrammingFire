@@ -37,14 +37,14 @@
 ### 💻 You Can Find Me On Most Of Social Media
 
 * Youtube - https://www.youtube.com/programmingfire
-* Discord - https://discord.gg/DnJZufgzEx​
-* Instagram - https://www.instagram.com/programming...​
-* Facebook - https://www.facebook.com/nouman.rahma...​
-* Twitter - https://twitter.com/TechCode6​
+* Discord - https://discord.gg/DnJZufgzEx
+* Instagram - https://www.instagram.com/programmingfire
+* Facebook - https://www.facebook.com/nouman.rahman
+* Twitter - https://twitter.com/ProgrammingFire
 
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/techcode6?label=Follow%20On%20Twitter&style=social)](https://twitter.com/techcode6)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ProgrammingFire?label=Follow%20On%20Twitter&style=social)](https://twitter.com/ProgrammingFire)
 <br>
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCWOD0-JKR1WfpEf_MhdY2pw?label=Subscribe%20On%20YouTube&style=social)](https://youtube.com/c/ProgrammingFire)
 
