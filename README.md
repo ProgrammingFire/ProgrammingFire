@@ -2,7 +2,7 @@
 📚 I’m currently learning UI/UX
 
 <div align="left">
-  <a href="https://app.daily.dev/programmingfire"><img align="right" src="https://api.daily.dev/devcards/86dba213ca724d5892a77340b0410d32.png?r=g4u" width="400" alt="Nouman Rahman's Dev Card"/></a>
+  <a href="https://app.daily.dev/programmingfire"><img align="right" width="300" src="https://api.daily.dev/devcards/86dba213ca724d5892a77340b0410d32.png?r=g4u" alt="Nouman Rahman's Dev Card"/></a>
 </div>
 
 ---
