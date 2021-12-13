@@ -1,15 +1,9 @@
-<a href="https://app.daily.dev/programmingfire"><img align="right" src="https://api.daily.dev/devcards/86dba213ca724d5892a77340b0410d32.png?r=g4u" width="400" alt="Nouman Rahman's Dev Card"/></a>
-
 # 👋 Hi, I’m @programmingfire
 📚 I’m currently learning UI/UX
 
----
-
-### 🏆 My Projects -
-
-* [J.A.R.V.I.S-Python-AI](https://github.com/programmingfire/J.A.R.V.I.S-Python-AI)
-* [My Blog/Website](https://github.com/programmingfire/website)
-* [My Dotfiles](https://github.com/programmingfire/dotfiles)
+<div align="left">
+  <a href="https://app.daily.dev/programmingfire"><img align="right" src="https://api.daily.dev/devcards/86dba213ca724d5892a77340b0410d32.png?r=g4u" width="400" alt="Nouman Rahman's Dev Card"/></a>
+</div>
 
 ---
 
