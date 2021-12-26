@@ -47,10 +47,12 @@
 
 ### ⚙ My Favourite Technologies Are -
 
-* [Angular](https://angular.io/)
+* [React.js](https://reactjs.org/)
+* [Next.js](https://nextjs.org/)
+* [TailwindCSS](https://tailwindcss.com)
+* [SASS](https://sass-lang.org)
 * [Node.js](https://nodejs.org/)
-* [NestJS](https://nestjs.com/)
 * [Typescript](https://typescriptlang.org/)
-* [MySQL](https://mysql.org/)
+* [PostgreSQL](https://postgresql.org/)
 * [MongoDB](https://mongodb.com/)
 * [GraphQL](https://graphql.org/)
