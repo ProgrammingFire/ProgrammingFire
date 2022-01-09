@@ -29,6 +29,15 @@
 
 ---
 
+### 📚 Latest Blog Posts
+
+<!-- POSTS:START -->
+<!-- POSTS:END -->
+
+➡️ [more posts...](https://programmingfire.com/)
+
+---
+
 ### 💻 You Can Find Me On Most Of Social Media
 
 * Youtube - https://www.youtube.com/programmingfire
