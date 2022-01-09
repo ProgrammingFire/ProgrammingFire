@@ -32,6 +32,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- POSTS:START -->
+- [Get Started With React TypeScript](https://programmingfire.com/react-typescript-getting-started)
+- [Setup A Django Application](https://programmingfire.com/setup-django-application)
+- [Create a Docker Image For Node.js](https://programmingfire.com/create-docker-image-for-nodejs)
+- [Deploy Node.js/Express Application On Ubuntu/Debian Server](https://programmingfire.com/deploy-nodejs-app-on-ubuntu)
+- [Setup PostgreSQL With TypeORM](https://programmingfire.com/setup-postgres-with-typeorm)
 <!-- POSTS:END -->
 
 ➡️ [more posts...](https://programmingfire.com/)
