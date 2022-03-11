@@ -32,11 +32,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- POSTS:START -->
+- [Deploy .NET Minimal APIs To Kubernetes!](https://programmingfire.com/deploy-dotnet-minimal-apis-to-kubernetes)
 - [Deploy Node.JS Application To Kubernetes!](https://programmingfire.com/deploy-nodejs-application-to-kubernetes)
 - [Get Started With React TypeScript](https://programmingfire.com/react-typescript-getting-started)
 - [Setup A Django Application](https://programmingfire.com/setup-django-application)
 - [Create a Docker Image For Node.js](https://programmingfire.com/create-docker-image-for-nodejs)
-- [Deploy Node.js/Express Application On Ubuntu/Debian Server](https://programmingfire.com/deploy-nodejs-app-on-ubuntu)
 <!-- POSTS:END -->
 
 ➡️ [more posts...](https://programmingfire.com/)
