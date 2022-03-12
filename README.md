@@ -59,15 +59,5 @@
 
 ---
 
-### ⚙ My Favourite Technologies Are -
-
-* [Angular](https://angular.io/)
-* [Scully](https://scully.io/)
-* [Contentful](https://contentful.com/)
-* [TailwindCSS](https://tailwindcss.com)
-* [SASS](https://sass-lang.com)
-* [Node.js](https://nodejs.org/)
-* [Typescript](https://typescriptlang.org/)
-* [MySQL](https://mysql.org/)
-* [MongoDB](https://mongodb.com/)
-* [GraphQL](https://graphql.org/)
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,js,ts,html,css,wasm,git,vscode,docker,kubernetes,redis,postgres,mongodb,md,linux,graphql,go,figma)](https://skillicons.dev)
