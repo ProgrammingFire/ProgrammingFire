@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @programmingfire
+# 👋 Hi, I’m @ProgrammingFire
 📚 I’m currently learning UI/UX
 
 <div align="left">
