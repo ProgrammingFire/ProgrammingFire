@@ -2,16 +2,12 @@
 📚 I’m currently learning UI/UX
 
 <div align="left">
-  <a href="https://app.daily.dev/programmingfire"><img align="right" width="300" src="https://api.daily.dev/devcards/86dba213ca724d5892a77340b0410d32.png?r=orz" alt="Nouman Rahman's Dev Card"/></a>
+  <a href="https://app.daily.dev/programmingfire"><img align="right" width="290" src="https://api.daily.dev/devcards/86dba213ca724d5892a77340b0410d32.png?r=orz" alt="Nouman Rahman's Dev Card"/></a>
 </div>
 
 ---
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingfire&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=programmingfire&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
