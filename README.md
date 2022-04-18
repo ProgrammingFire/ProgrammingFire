@@ -31,7 +31,7 @@
 - [What Is Rust And Why It Is So Popular?](https://programmingfire.com/what-is-rust-and-why-it-is-so-popular)
 - [Introduction To Relational Databases With PostgreSQL.](https://programmingfire.com/introduction-to-relational-databases-with-postgresql)
 - [What Is Span In C#? And How It Improves The Performance?](https://programmingfire.com/what-is-span-in-csharp-and-how-it-improves-the-performance)
-- [Benchmark Your .NET Code With Benchmark](https://programmingfire.com/benchmark-your-dotnet-code-with-benchmark-dotnet)
+- [Benchmark Your .NET Code With Benchmark.NET](https://programmingfire.com/benchmark-your-dotnet-code-with-benchmark-dotnet)
 - [Organize Your Web API In A More Convenient Way With API Endpoints In ASP.NET Core](https://programmingfire.com/organize-your-web-api-in-a-more-convenient-way-with-api-endpoints-in-aspnet-core)
 <!-- POSTS:END -->
 
