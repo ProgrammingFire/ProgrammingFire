@@ -28,11 +28,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- POSTS:START -->
+- [A Deep Dive in Computer Number Systems](https://programmingfire.com/deep-dive-in-computer-number-systems)
 - [5 Amazing Tools For Developers Written In Rust](https://programmingfire.com/amazing-tools-for-developers-written-in-rust)
 - [What Is Rust And Why It Is So Popular?](https://programmingfire.com/what-is-rust-and-why-it-is-so-popular)
 - [Introduction To Relational Databases With PostgreSQL.](https://programmingfire.com/introduction-to-relational-databases-with-postgresql)
 - [What Is Span In C#? And How It Improves The Performance?](https://programmingfire.com/what-is-span-in-csharp-and-how-it-improves-the-performance)
-- [Benchmark Your .NET Code With Benchmark.NET](https://programmingfire.com/benchmark-your-dotnet-code-with-benchmark-dotnet)
 <!-- POSTS:END -->
 
 ➡️ [more posts...](https://programmingfire.com/)
