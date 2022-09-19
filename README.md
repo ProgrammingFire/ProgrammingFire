@@ -28,6 +28,28 @@
 ### 📚 Latest Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://programmingfire.com/how-to-deploy-a-fullstack-app-to-the-moon" title="Deploying a full-stack application to a scalable environment: A Step-By-Step Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663520962590/lvm8sIKTb.png" alt="Deploying a full-stack application to a scalable environment: A Step-By-Step Guide" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/how-to-deploy-a-fullstack-app-to-the-moon" title="Deploying a full-stack application to a scalable environment: A Step-By-Step Guide"><strong>Deploying a full-stack application to a scalable environment: A Step-By-Step Guide</strong></a>
+<br/> Developing a web application is only half the battle - once you've built it, you need to deploy it to a production environment so that your users can actually access and use it! In this article, we'll walk you through the steps of how to deploy a ful... </p> <br/> <br/>
+<p align="left">
+<a href="https://programmingfire.com/explore-the-new-era-of-databases-the-surrealdb" title="Explore the new Era of Databases, The SurrealDB"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663416156704/ikgg2OGtQ.png" alt="Explore the new Era of Databases, The SurrealDB" width="250px" align="right" /></a>
+<a href="https://programmingfire.com/explore-the-new-era-of-databases-the-surrealdb" title="Explore the new Era of Databases, The SurrealDB"><strong>Explore the new Era of Databases, The SurrealDB</strong></a>
+<br/> NoSQL databases have been on the rise in recent years, as they offer benefits over traditional relational databases. However, a new type of database called SurrealDB is now being developed that promises to provide even more benefits. In this article,... </p> <br/> <br/>
+<p align="left">
+<a href="https://programmingfire.com/do-you-really-need-kubernetes-in-real-world" title="Do You Really Need Kubernetes in Real-World?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663408152793/NyIuXCFjX.png" alt="Do You Really Need Kubernetes in Real-World?" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/do-you-really-need-kubernetes-in-real-world" title="Do You Really Need Kubernetes in Real-World?"><strong>Do You Really Need Kubernetes in Real-World?</strong></a>
+<br/> If you're a developer, chances are you've heard of Kubernetes. It's become one of the most popular container orchestration platforms in recent years. But what is it, and do you really need it? In this article, we'll explore what Kubernetes is and som... </p> <br/> <br/>
+<p align="left">
+<a href="https://programmingfire.com/top-productivity-tools-to-be-in-your-toolset" title="Top Productivity Tools to be in your Toolset"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663148647695/Zrn0DflS0.png" alt="Top Productivity Tools to be in your Toolset" width="250px" align="right" /></a>
+<a href="https://programmingfire.com/top-productivity-tools-to-be-in-your-toolset" title="Top Productivity Tools to be in your Toolset"><strong>Top Productivity Tools to be in your Toolset</strong></a>
+<br/> Introduction
+The ability to focus while programming is incredibly important for developers. To help you maintain your productivity levels high, here are the top programmer productivity tools to try out for each category. Eg. Management, Database, Des... </p> <br/> <br/>
+<p align="left">
+<a href="https://programmingfire.com/explore-the-carbon-language" title="Explore the new Era of C++, The Carbon Language"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662978432311/szp8swv0M.png" alt="Explore the new Era of C++, The Carbon Language" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/explore-the-carbon-language" title="Explore the new Era of C++, The Carbon Language"><strong>Explore the new Era of C++, The Carbon Language</strong></a>
+<br/> Introduction
+C++, the successor to the C programming language, is unarguably one of the most relevant languages of the modern day. C++ powers Python machine learning, JavaScript libraries, game development, and many other tools used in modern program... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
