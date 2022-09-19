@@ -28,11 +28,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- POSTS:START -->
-- [Deploy Rust Applications To AWS Lambda](https://programmingfire.com/deploy-rust-applications-to-aws-lambda)
-- [A Deep Dive in Computer Number Systems](https://programmingfire.com/deep-dive-in-computer-number-systems)
-- [5 Amazing Tools For Developers Written In Rust](https://programmingfire.com/amazing-tools-for-developers-written-in-rust)
-- [What Is Rust And Why It Is So Popular?](https://programmingfire.com/what-is-rust-and-why-it-is-so-popular)
-- [Introduction To Relational Databases With PostgreSQL.](https://programmingfire.com/introduction-to-relational-databases-with-postgresql)
+- [Deploying a full-stack application to a scalable environment: A Step-By-Step Guide](https://programmingfire.com/how-to-deploy-a-fullstack-app-to-the-moon)
+- [Explore the new Era of Databases, The SurrealDB](https://programmingfire.com/explore-the-new-era-of-databases-the-surrealdb)
+- [Do You Really Need Kubernetes in Real-World?](https://programmingfire.com/do-you-really-need-kubernetes-in-real-world)
+- [Top Productivity Tools to be in your Toolset](https://programmingfire.com/top-productivity-tools-to-be-in-your-toolset)
+- [Explore the new Era of C++, The Carbon Language](https://programmingfire.com/explore-the-carbon-language)
 <!-- POSTS:END -->
 
 ➡️ [more posts...](https://programmingfire.com/)
