@@ -1,19 +1,24 @@
-name: Latest blog post workflow
+name: "📚 Blog Updater"
+
 on:
-  schedule:
-    # Runs every hour
-    - cron: "0 * * * *"
   workflow_dispatch:
+  schedule:
+    - cron: '0 */12 * * *'
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update_blogs:
+    name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
-          comment_tag_name: "POSTS"
-          feed_list: "https://programmingfire.com/rss.xml"
+          USERNAME: 'programmingfire' # Hashnode Username
+          COUNT: 5 # MAX Visisble
+          STYLE: "blog-left"
+          BLOG_URL: "https://programmingfire.com/"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
