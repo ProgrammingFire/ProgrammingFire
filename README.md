@@ -27,13 +27,10 @@
 
 ### 📚 Latest Blog Posts
 
-<!-- POSTS:START -->
-- [Deploying a full-stack application to a scalable environment: A Step-By-Step Guide](https://programmingfire.com/how-to-deploy-a-fullstack-app-to-the-moon)
-- [Explore the new Era of Databases, The SurrealDB](https://programmingfire.com/explore-the-new-era-of-databases-the-surrealdb)
-- [Do You Really Need Kubernetes in Real-World?](https://programmingfire.com/do-you-really-need-kubernetes-in-real-world)
-- [Top Productivity Tools to be in your Toolset](https://programmingfire.com/top-productivity-tools-to-be-in-your-toolset)
-- [Explore the new Era of C++, The Carbon Language](https://programmingfire.com/explore-the-carbon-language)
-<!-- POSTS:END -->
+<!-- HASHNODE_BLOG:START -->
+
+<!-- HASHNODE_BLOG:START -->
+
 
 ➡️ [more posts...](https://programmingfire.com/)
 
