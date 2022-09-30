@@ -29,27 +29,27 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://programmingfire.com/what-are-decision-trees-in-ml-with-scikit-learn" title="What are Decision Trees in ML: with Scikit-Learn"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664095158437/EckK9TBuk.png" alt="What are Decision Trees in ML: with Scikit-Learn" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/the-top-5-programming-language-to-learn" title="What are the top 5 programming language to learn"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664474231084/Oujvsjy-C.png" alt="What are the top 5 programming language to learn" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/the-top-5-programming-language-to-learn" title="What are the top 5 programming language to learn"><strong>What are the top 5 programming language to learn</strong></a>
+<br/> Programming Languages, The first thing that comes to a beginner's mind, Which programming language I should learn? Is it JavaScript? Is it TypeScript? Is it Rust? If he even picks a language then other questions come to his mind like Is it in demand?... </p> <br/> <br/>
+<p align="left">
+<a href="https://programmingfire.com/what-are-decision-trees-in-ml-with-scikit-learn" title="What are Decision Trees in ML: with Scikit-Learn"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664095158437/EckK9TBuk.png" alt="What are Decision Trees in ML: with Scikit-Learn" width="250px" align="right" /></a>
 <a href="https://programmingfire.com/what-are-decision-trees-in-ml-with-scikit-learn" title="What are Decision Trees in ML: with Scikit-Learn"><strong>What are Decision Trees in ML: with Scikit-Learn</strong></a>
 <br/> Introduction
 A decision tree in general parlance represents a hierarchical series of binary decisions. A decision tree in machine learning works in exactly the same way, and except that we let the computer figure out the optimal structure & hierarchy... </p> <br/> <br/>
 <p align="left">
-<a href="https://programmingfire.com/why-serverless-doesnt-make-any-sense" title="Why Serverless doesn't make any sense!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663865208679/OFGWvIJQj.png" alt="Why Serverless doesn't make any sense!" width="250px" align="right" /></a>
+<a href="https://programmingfire.com/why-serverless-doesnt-make-any-sense" title="Why Serverless doesn't make any sense!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663865208679/OFGWvIJQj.png" alt="Why Serverless doesn't make any sense!" width="250px" align="left" /></a>
 <a href="https://programmingfire.com/why-serverless-doesnt-make-any-sense" title="Why Serverless doesn't make any sense!"><strong>Why Serverless doesn't make any sense!</strong></a>
 <br/> There are two things in this world that I don't understand Serverless and Serverless. And part of that could be for me, just like not having a lot of experience with it because every time I dip my toe in the serverless water, it's just freezing cold ... </p> <br/> <br/>
 <p align="left">
-<a href="https://programmingfire.com/what-is-helm-the-package-manager-for-kubernetes" title="What is Helm: The package manager for Kubernetes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663759940289/OGFpb1BfK.png" alt="What is Helm: The package manager for Kubernetes" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/what-is-helm-the-package-manager-for-kubernetes" title="What is Helm: The package manager for Kubernetes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663759940289/OGFpb1BfK.png" alt="What is Helm: The package manager for Kubernetes" width="250px" align="right" /></a>
 <a href="https://programmingfire.com/what-is-helm-the-package-manager-for-kubernetes" title="What is Helm: The package manager for Kubernetes"><strong>What is Helm: The package manager for Kubernetes</strong></a>
 <br/> What is Helm?
 Helm is a package manager for Kubernetes, which makes it simple to take applications and services that are highly re-iterable, or used across a number of scenarios, and deploy them into your typical K8s cluster. Helm charts enable devel... </p> <br/> <br/>
 <p align="left">
-<a href="https://programmingfire.com/how-to-deploy-a-fullstack-app-to-the-moon" title="Deploying a full-stack application to a scalable environment: A Step-By-Step Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663520962590/lvm8sIKTb.png" alt="Deploying a full-stack application to a scalable environment: A Step-By-Step Guide" width="250px" align="right" /></a>
+<a href="https://programmingfire.com/how-to-deploy-a-fullstack-app-to-the-moon" title="Deploying a full-stack application to a scalable environment: A Step-By-Step Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663520962590/lvm8sIKTb.png" alt="Deploying a full-stack application to a scalable environment: A Step-By-Step Guide" width="250px" align="left" /></a>
 <a href="https://programmingfire.com/how-to-deploy-a-fullstack-app-to-the-moon" title="Deploying a full-stack application to a scalable environment: A Step-By-Step Guide"><strong>Deploying a full-stack application to a scalable environment: A Step-By-Step Guide</strong></a>
 <br/> Developing a web application is only half the battle - once you've built it, you need to deploy it to a production environment so that your users can actually access and use it! In this article, we'll walk you through the steps of how to deploy a ful... </p> <br/> <br/>
-<p align="left">
-<a href="https://programmingfire.com/explore-the-new-era-of-databases-the-surrealdb" title="Explore the new Era of Databases, The SurrealDB"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663416156704/ikgg2OGtQ.png" alt="Explore the new Era of Databases, The SurrealDB" width="250px" align="left" /></a>
-<a href="https://programmingfire.com/explore-the-new-era-of-databases-the-surrealdb" title="Explore the new Era of Databases, The SurrealDB"><strong>Explore the new Era of Databases, The SurrealDB</strong></a>
-<br/> NoSQL databases have been on the rise in recent years, as they offer benefits over traditional relational databases. However, a new type of database called SurrealDB is now being developed that promises to provide even more benefits. In this article,... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
