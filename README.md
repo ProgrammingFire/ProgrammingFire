@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @ProgrammingFire
-📚 I’m currently learning UI/UX
+📚 I’m currently learning Cloud
 
 <div align="left">
   <a href="https://app.daily.dev/programmingfire"><img align="right" width="240" src="https://api.daily.dev/devcards/86dba213ca724d5892a77340b0410d32.png?r=orz" alt="Nouman Rahman's Dev Card"/></a>
