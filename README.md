@@ -29,6 +29,24 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://programmingfire.com/picoctf-2022-cryptography-basic-mod1" title="picoCTF 2022: Cryptography: basic-mod1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665742359348/ksFKCdTnx.png" alt="picoCTF 2022: Cryptography: basic-mod1" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/picoctf-2022-cryptography-basic-mod1" title="picoCTF 2022: Cryptography: basic-mod1"><strong>picoCTF 2022: Cryptography: basic-mod1</strong></a>
+<br/> Introduction
+Challenge: basic-mod1
+Category: Cryptography
+Description:
+We found this weird message being passed around on the servers, we think we have a working decryption scheme. Download the message here.
+Take each number mod 37 and map it to the ... </p> <br/> <br/>
+<p align="left">
+<a href="https://programmingfire.com/picoctf-2022-binary-exploitation-basic-file-exploit" title="picoCTF 2022: Binary Exploitation: basic-file-exploit"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665736316500/d5FGyOzl2.png" alt="picoCTF 2022: Binary Exploitation: basic-file-exploit" width="250px" align="right" /></a>
+<a href="https://programmingfire.com/picoctf-2022-binary-exploitation-basic-file-exploit" title="picoCTF 2022: Binary Exploitation: basic-file-exploit"><strong>picoCTF 2022: Binary Exploitation: basic-file-exploit</strong></a>
+<br/> Introduction
+Challenge: basic-file-exploit
+Category: Binary Exploitation
+Description: 
+The program provided allows you to write to a file and read what you wrote from it. Try playing around with it and see if you can break it!
+Connect to the program ... </p> <br/> <br/>
+<p align="left">
 <a href="https://programmingfire.com/write-an-effective-penetration-testing-report" title="Write an effective penetration testing report"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665578411953/RXDk6N26J.png" alt="Write an effective penetration testing report" width="250px" align="left" /></a>
 <a href="https://programmingfire.com/write-an-effective-penetration-testing-report" title="Write an effective penetration testing report"><strong>Write an effective penetration testing report</strong></a>
 <br/> Did you build a website or an app? But is it secure? Well, probably not. A penetration test, colloquially known as a pen test or ethical hacking, is an authorized simulated cyberattack on a computer system, performed to evaluate the security of the s... </p> <br/> <br/>
@@ -44,15 +62,6 @@ Programming</strong></a>
 <a href="https://programmingfire.com/the-top-5-programming-language-to-learn" title="What are the top 5 programming language to learn"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664474231084/Oujvsjy-C.png" alt="What are the top 5 programming language to learn" width="250px" align="left" /></a>
 <a href="https://programmingfire.com/the-top-5-programming-language-to-learn" title="What are the top 5 programming language to learn"><strong>What are the top 5 programming language to learn</strong></a>
 <br/> Programming Languages, The first thing that comes to a beginner's mind, Which programming language I should learn? Is it JavaScript? Is it TypeScript? Is it Rust? If he even picks a language then other questions come to his mind like Is it in demand?... </p> <br/> <br/>
-<p align="left">
-<a href="https://programmingfire.com/what-are-decision-trees-in-ml-with-scikit-learn" title="What are Decision Trees in ML: with Scikit-Learn"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664095158437/EckK9TBuk.png" alt="What are Decision Trees in ML: with Scikit-Learn" width="250px" align="right" /></a>
-<a href="https://programmingfire.com/what-are-decision-trees-in-ml-with-scikit-learn" title="What are Decision Trees in ML: with Scikit-Learn"><strong>What are Decision Trees in ML: with Scikit-Learn</strong></a>
-<br/> Introduction
-A decision tree in general parlance represents a hierarchical series of binary decisions. A decision tree in machine learning works in exactly the same way, and except that we let the computer figure out the optimal structure & hierarchy... </p> <br/> <br/>
-<p align="left">
-<a href="https://programmingfire.com/why-serverless-doesnt-make-any-sense" title="Why Serverless doesn't make any sense!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663865208679/OFGWvIJQj.png" alt="Why Serverless doesn't make any sense!" width="250px" align="left" /></a>
-<a href="https://programmingfire.com/why-serverless-doesnt-make-any-sense" title="Why Serverless doesn't make any sense!"><strong>Why Serverless doesn't make any sense!</strong></a>
-<br/> There are two things in this world that I don't understand Serverless and Serverless. And part of that could be for me, just like not having a lot of experience with it because every time I dip my toe in the serverless water, it's just freezing cold ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
