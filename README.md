@@ -29,6 +29,24 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://programmingfire.com/picoctf-2022-cryptography-credstuff" title="picoCTF 2022: Cryptography: credstuff"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665831795697/b6as2xjOM.png" alt="picoCTF 2022: Cryptography: credstuff" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/picoctf-2022-cryptography-credstuff" title="picoCTF 2022: Cryptography: credstuff"><strong>picoCTF 2022: Cryptography: credstuff</strong></a>
+<br/> Introduction
+Challenge: credstuff
+Category: Cryptography
+Description:
+We found a leak of a black-market website's login credentials. Can you find the password of the user cultiris and successfully decrypt it? Download the leak here.
+The first user in... </p> <br/> <br/>
+<p align="left">
+<a href="https://programmingfire.com/picoctf-2022-binary-exploitation-buffer-overflow-0" title="picoCTF 2022: Binary Exploitation: buffer overflow 0"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665829497838/cQfnMAzjk.png" alt="picoCTF 2022: Binary Exploitation: buffer overflow 0" width="250px" align="right" /></a>
+<a href="https://programmingfire.com/picoctf-2022-binary-exploitation-buffer-overflow-0" title="picoCTF 2022: Binary Exploitation: buffer overflow 0"><strong>picoCTF 2022: Binary Exploitation: buffer overflow 0</strong></a>
+<br/> Introduction
+Challenge: buffer overflow 0
+Category: Binary Exploitation
+Description:
+Smash the stack.
+Let's start off simple, can you overflow the correct buffer? The program is available here. You can view the source here. And connect with it using:... </p> <br/> <br/>
+<p align="left">
 <a href="https://programmingfire.com/picoctf-2022-cryptography-basic-mod-2" title="picoCTF 2022: Cryptography: basic-mod-2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665763179518/m1LKnfA_r.png" alt="picoCTF 2022: Cryptography: basic-mod-2" width="250px" align="left" /></a>
 <a href="https://programmingfire.com/picoctf-2022-cryptography-basic-mod-2" title="picoCTF 2022: Cryptography: basic-mod-2"><strong>picoCTF 2022: Cryptography: basic-mod-2</strong></a>
 <br/> Introduction
@@ -56,18 +74,6 @@ Category: Binary Exploitation
 Description: 
 The program provided allows you to write to a file and read what you wrote from it. Try playing around with it and see if you can break it!
 Connect to the program ... </p> <br/> <br/>
-<p align="left">
-<a href="https://programmingfire.com/write-an-effective-penetration-testing-report" title="Write an effective penetration testing report"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665578411953/RXDk6N26J.png" alt="Write an effective penetration testing report" width="250px" align="right" /></a>
-<a href="https://programmingfire.com/write-an-effective-penetration-testing-report" title="Write an effective penetration testing report"><strong>Write an effective penetration testing report</strong></a>
-<br/> Did you build a website or an app? But is it secure? Well, probably not. A penetration test, colloquially known as a pen test or ethical hacking, is an authorized simulated cyberattack on a computer system, performed to evaluate the security of the s... </p> <br/> <br/>
-<p align="left">
-<a href="https://programmingfire.com/do-you-really-need-to-learn-low-level-programming" title="Do you really need to learn Low-Level
-Programming"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665139653799/TrWcrV3Xa.png" alt="Do you really need to learn Low-Level
-Programming" width="250px" align="left" /></a>
-<a href="https://programmingfire.com/do-you-really-need-to-learn-low-level-programming" title="Do you really need to learn Low-Level
-Programming"><strong>Do you really need to learn Low-Level
-Programming</strong></a>
-<br/> Talking about Low-Level concepts, Most people find learning them not practical, challenging, or complex to learn, but, for me, I really like learning Low-Level concepts, and see how my software is actually working, seeing how I can fix some of the pe... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
