@@ -29,6 +29,26 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://programmingfire.com/picoctf-2022-reverse-engineering-file-run-2" title="picoCTF 2022: Reverse Engineering: file-run-2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665923827194/Uc4t3QQ2z.png" alt="picoCTF 2022: Reverse Engineering: file-run-2" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/picoctf-2022-reverse-engineering-file-run-2" title="picoCTF 2022: Reverse Engineering: file-run-2"><strong>picoCTF 2022: Reverse Engineering: file-run-2</strong></a>
+<br/> Introduction
+Challenge: file-run-2
+Category: Reverse Engineering
+Description:
+A program has been provided to you, what happens if you try to run it on the command line? Download the program here.
+Solution
+We have been provided with a file called run.... </p> <br/> <br/>
+<p align="left">
+<a href="https://programmingfire.com/picoctf-2022-reverse-engineering-file-run-1" title="picoCTF 2022: Reverse Engineering: file-run-1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665923137924/jrxeSSBAp.png" alt="picoCTF 2022: Reverse Engineering: file-run-1" width="250px" align="right" /></a>
+<a href="https://programmingfire.com/picoctf-2022-reverse-engineering-file-run-1" title="picoCTF 2022: Reverse Engineering: file-run-1"><strong>picoCTF 2022: Reverse Engineering: file-run-1</strong></a>
+<br/> Introduction
+Challenge: file-run-1
+Category: Reverse Engineering
+Description:
+A program has been provided to you, what happens if you try to run it on the command line? Download the program here.
+Solution
+We have been provided with a file called run.... </p> <br/> <br/>
+<p align="left">
 <a href="https://programmingfire.com/picoctf-2022-forensics-enhance" title="picoCTF 2022: Forensics: Enhance!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665845176091/FZGJdlesR.png" alt="picoCTF 2022: Forensics: Enhance!" width="250px" align="left" /></a>
 <a href="https://programmingfire.com/picoctf-2022-forensics-enhance" title="picoCTF 2022: Forensics: Enhance!"><strong>picoCTF 2022: Forensics: Enhance!</strong></a>
 <br/> Introduction
@@ -59,25 +79,6 @@ Category: Cryptography
 Description:
 We found a leak of a black-market website's login credentials. Can you find the password of the user cultiris and successfully decrypt it? Download the leak here.
 The first user in... </p> <br/> <br/>
-<p align="left">
-<a href="https://programmingfire.com/picoctf-2022-binary-exploitation-buffer-overflow-0" title="picoCTF 2022: Binary Exploitation: buffer overflow 0"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665829497838/cQfnMAzjk.png" alt="picoCTF 2022: Binary Exploitation: buffer overflow 0" width="250px" align="right" /></a>
-<a href="https://programmingfire.com/picoctf-2022-binary-exploitation-buffer-overflow-0" title="picoCTF 2022: Binary Exploitation: buffer overflow 0"><strong>picoCTF 2022: Binary Exploitation: buffer overflow 0</strong></a>
-<br/> Introduction
-Challenge: buffer overflow 0
-Category: Binary Exploitation
-Description:
-Smash the stack.
-Let's start off simple, can you overflow the correct buffer? The program is available here. You can view the source here. And connect with it using:... </p> <br/> <br/>
-<p align="left">
-<a href="https://programmingfire.com/picoctf-2022-cryptography-basic-mod-2" title="picoCTF 2022: Cryptography: basic-mod-2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665763179518/m1LKnfA_r.png" alt="picoCTF 2022: Cryptography: basic-mod-2" width="250px" align="left" /></a>
-<a href="https://programmingfire.com/picoctf-2022-cryptography-basic-mod-2" title="picoCTF 2022: Cryptography: basic-mod-2"><strong>picoCTF 2022: Cryptography: basic-mod-2</strong></a>
-<br/> Introduction
-Challenge: basic-mod-2
-Category: Cryptography
-Description:
-A new modular challenge! 
-Download the message here.
-Take each number mod 41 and find the modular inverse for the result. Then map to the following character set: 1-26 are the al... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
