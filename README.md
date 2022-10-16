@@ -29,6 +29,28 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://programmingfire.com/picoctf-2022-forensics-enhance" title="picoCTF 2022: Forensics: Enhance!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665845176091/FZGJdlesR.png" alt="picoCTF 2022: Forensics: Enhance!" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/picoctf-2022-forensics-enhance" title="picoCTF 2022: Forensics: Enhance!"><strong>picoCTF 2022: Forensics: Enhance!</strong></a>
+<br/> Introduction
+Challenge: Enhance!
+Category: Forensics
+Description:
+Download this image file and find the flag.
+
+Download image file
+
+Solution
+Now we are moving on to our next category, Forensics. In this challenge, we have been provided with a .svg fi... </p> <br/> <br/>
+<p align="left">
+<a href="https://programmingfire.com/picoctf-2022-binary-exploitation-cve-xxxx-xxxx" title="picoCTF 2022: Binary Exploitation: CVE-XXXX-XXXX"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665843077766/bDp6jThex.png" alt="picoCTF 2022: Binary Exploitation: CVE-XXXX-XXXX" width="250px" align="right" /></a>
+<a href="https://programmingfire.com/picoctf-2022-binary-exploitation-cve-xxxx-xxxx" title="picoCTF 2022: Binary Exploitation: CVE-XXXX-XXXX"><strong>picoCTF 2022: Binary Exploitation: CVE-XXXX-XXXX</strong></a>
+<br/> Introduction
+Challenge: CVE-XXXX-XXXX
+Category: Binary Exploitation
+Description:
+Enter the CVE of the vulnerability as the flag with the correct flag format:
+picoCTF{CVE-XXXX-XXXXX} replacing XXXX-XXXXX with the numbers for the matching vulnerability... </p> <br/> <br/>
+<p align="left">
 <a href="https://programmingfire.com/picoctf-2022-cryptography-credstuff" title="picoCTF 2022: Cryptography: credstuff"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665831795697/b6as2xjOM.png" alt="picoCTF 2022: Cryptography: credstuff" width="250px" align="left" /></a>
 <a href="https://programmingfire.com/picoctf-2022-cryptography-credstuff" title="picoCTF 2022: Cryptography: credstuff"><strong>picoCTF 2022: Cryptography: credstuff</strong></a>
 <br/> Introduction
@@ -56,24 +78,6 @@ Description:
 A new modular challenge! 
 Download the message here.
 Take each number mod 41 and find the modular inverse for the result. Then map to the following character set: 1-26 are the al... </p> <br/> <br/>
-<p align="left">
-<a href="https://programmingfire.com/picoctf-2022-cryptography-basic-mod1" title="picoCTF 2022: Cryptography: basic-mod1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665763475616/-sl7StN_c.png" alt="picoCTF 2022: Cryptography: basic-mod1" width="250px" align="right" /></a>
-<a href="https://programmingfire.com/picoctf-2022-cryptography-basic-mod1" title="picoCTF 2022: Cryptography: basic-mod1"><strong>picoCTF 2022: Cryptography: basic-mod1</strong></a>
-<br/> Introduction
-Challenge: basic-mod1
-Category: Cryptography
-Description:
-We found this weird message being passed around on the servers, we think we have a working decryption scheme. Download the message here.
-Take each number mod 37 and map it to the ... </p> <br/> <br/>
-<p align="left">
-<a href="https://programmingfire.com/picoctf-2022-binary-exploitation-basic-file-exploit" title="picoCTF 2022: Binary Exploitation: basic-file-exploit"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665763552881/wpeSMdEBx.png" alt="picoCTF 2022: Binary Exploitation: basic-file-exploit" width="250px" align="left" /></a>
-<a href="https://programmingfire.com/picoctf-2022-binary-exploitation-basic-file-exploit" title="picoCTF 2022: Binary Exploitation: basic-file-exploit"><strong>picoCTF 2022: Binary Exploitation: basic-file-exploit</strong></a>
-<br/> Introduction
-Challenge: basic-file-exploit
-Category: Binary Exploitation
-Description: 
-The program provided allows you to write to a file and read what you wrote from it. Try playing around with it and see if you can break it!
-Connect to the program ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
