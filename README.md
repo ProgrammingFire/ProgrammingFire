@@ -29,7 +29,18 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://programmingfire.com/picoctf-2022-reverse-engineering-file-run-2" title="picoCTF 2022: Reverse Engineering: file-run-2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665923827194/Uc4t3QQ2z.png" alt="picoCTF 2022: Reverse Engineering: file-run-2" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/picoctf-2022-forensics-file-types" title="picoCTF 2022: Forensics: File types"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666597360137/vKJQ9tzJ-.png" alt="picoCTF 2022: Forensics: File types" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/picoctf-2022-forensics-file-types" title="picoCTF 2022: Forensics: File types"><strong>picoCTF 2022: Forensics: File types</strong></a>
+<br/> Introduction
+Challenge: File types
+Category: Forensics
+Description
+This file was found among some files marked confidential but my pdf reader cannot read it, maybe yours can.
+You can download the file from here.
+Solution
+The file that was given, I am... </p> <br/> <br/>
+<p align="left">
+<a href="https://programmingfire.com/picoctf-2022-reverse-engineering-file-run-2" title="picoCTF 2022: Reverse Engineering: file-run-2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665923827194/Uc4t3QQ2z.png" alt="picoCTF 2022: Reverse Engineering: file-run-2" width="250px" align="right" /></a>
 <a href="https://programmingfire.com/picoctf-2022-reverse-engineering-file-run-2" title="picoCTF 2022: Reverse Engineering: file-run-2"><strong>picoCTF 2022: Reverse Engineering: file-run-2</strong></a>
 <br/> Introduction
 Challenge: file-run-2
@@ -39,7 +50,7 @@ A program has been provided to you, what happens if you try to run it on the com
 Solution
 We have been provided with a file called run.... </p> <br/> <br/>
 <p align="left">
-<a href="https://programmingfire.com/picoctf-2022-reverse-engineering-file-run-1" title="picoCTF 2022: Reverse Engineering: file-run-1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665923137924/jrxeSSBAp.png" alt="picoCTF 2022: Reverse Engineering: file-run-1" width="250px" align="right" /></a>
+<a href="https://programmingfire.com/picoctf-2022-reverse-engineering-file-run-1" title="picoCTF 2022: Reverse Engineering: file-run-1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665923137924/jrxeSSBAp.png" alt="picoCTF 2022: Reverse Engineering: file-run-1" width="250px" align="left" /></a>
 <a href="https://programmingfire.com/picoctf-2022-reverse-engineering-file-run-1" title="picoCTF 2022: Reverse Engineering: file-run-1"><strong>picoCTF 2022: Reverse Engineering: file-run-1</strong></a>
 <br/> Introduction
 Challenge: file-run-1
@@ -49,7 +60,7 @@ A program has been provided to you, what happens if you try to run it on the com
 Solution
 We have been provided with a file called run.... </p> <br/> <br/>
 <p align="left">
-<a href="https://programmingfire.com/picoctf-2022-forensics-enhance" title="picoCTF 2022: Forensics: Enhance!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665845176091/FZGJdlesR.png" alt="picoCTF 2022: Forensics: Enhance!" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/picoctf-2022-forensics-enhance" title="picoCTF 2022: Forensics: Enhance!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665845176091/FZGJdlesR.png" alt="picoCTF 2022: Forensics: Enhance!" width="250px" align="right" /></a>
 <a href="https://programmingfire.com/picoctf-2022-forensics-enhance" title="picoCTF 2022: Forensics: Enhance!"><strong>picoCTF 2022: Forensics: Enhance!</strong></a>
 <br/> Introduction
 Challenge: Enhance!
@@ -62,7 +73,7 @@ Download image file
 Solution
 Now we are moving on to our next category, Forensics. In this challenge, we have been provided with a .svg fi... </p> <br/> <br/>
 <p align="left">
-<a href="https://programmingfire.com/picoctf-2022-binary-exploitation-cve-xxxx-xxxx" title="picoCTF 2022: Binary Exploitation: CVE-XXXX-XXXX"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665843077766/bDp6jThex.png" alt="picoCTF 2022: Binary Exploitation: CVE-XXXX-XXXX" width="250px" align="right" /></a>
+<a href="https://programmingfire.com/picoctf-2022-binary-exploitation-cve-xxxx-xxxx" title="picoCTF 2022: Binary Exploitation: CVE-XXXX-XXXX"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665843077766/bDp6jThex.png" alt="picoCTF 2022: Binary Exploitation: CVE-XXXX-XXXX" width="250px" align="left" /></a>
 <a href="https://programmingfire.com/picoctf-2022-binary-exploitation-cve-xxxx-xxxx" title="picoCTF 2022: Binary Exploitation: CVE-XXXX-XXXX"><strong>picoCTF 2022: Binary Exploitation: CVE-XXXX-XXXX</strong></a>
 <br/> Introduction
 Challenge: CVE-XXXX-XXXX
@@ -70,15 +81,6 @@ Category: Binary Exploitation
 Description:
 Enter the CVE of the vulnerability as the flag with the correct flag format:
 picoCTF{CVE-XXXX-XXXXX} replacing XXXX-XXXXX with the numbers for the matching vulnerability... </p> <br/> <br/>
-<p align="left">
-<a href="https://programmingfire.com/picoctf-2022-cryptography-credstuff" title="picoCTF 2022: Cryptography: credstuff"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665831795697/b6as2xjOM.png" alt="picoCTF 2022: Cryptography: credstuff" width="250px" align="left" /></a>
-<a href="https://programmingfire.com/picoctf-2022-cryptography-credstuff" title="picoCTF 2022: Cryptography: credstuff"><strong>picoCTF 2022: Cryptography: credstuff</strong></a>
-<br/> Introduction
-Challenge: credstuff
-Category: Cryptography
-Description:
-We found a leak of a black-market website's login credentials. Can you find the password of the user cultiris and successfully decrypt it? Download the leak here.
-The first user in... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
