@@ -29,16 +29,20 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://programmingfire.com/the-top-6-amazing-devops-and-cloud-tools-to-try-once" title="The top 6 amazing DevOps and Cloud tools to try once"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667904694257/x4aF42j5i.png" alt="The top 6 amazing DevOps and Cloud tools to try once" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/explore-the-new-era-of-static-sites-generation-astro" title="Explore the New Era of Static Sites Generation: Astro"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670865277427/3QNscwoYY.png" alt="Explore the New Era of Static Sites Generation: Astro" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/explore-the-new-era-of-static-sites-generation-astro" title="Explore the New Era of Static Sites Generation: Astro"><strong>Explore the New Era of Static Sites Generation: Astro</strong></a>
+<br/> Do you know what is the hottest stuff going on in the Web Dev Community, it's JAM Stack, Static Sites, and stuff like that. People are more into creating their portfolios, blogs, podcasts, etc. where you don't need a lot of business-level technologie... </p> <br/> <br/>
+<p align="left">
+<a href="https://programmingfire.com/the-top-6-amazing-devops-and-cloud-tools-to-try-once" title="The top 6 amazing DevOps and Cloud tools to try once"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667904694257/x4aF42j5i.png" alt="The top 6 amazing DevOps and Cloud tools to try once" width="250px" align="right" /></a>
 <a href="https://programmingfire.com/the-top-6-amazing-devops-and-cloud-tools-to-try-once" title="The top 6 amazing DevOps and Cloud tools to try once"><strong>The top 6 amazing DevOps and Cloud tools to try once</strong></a>
 <br/> Over the years, the tools, practices, and culture associated with DevOps have drastically improved – in order to make this very lucrative niche of professionals to be guided and supported by the right mindset and of course technology.
 The idea behind... </p> <br/> <br/>
 <p align="left">
-<a href="https://programmingfire.com/a-beginner-friendly-introduction-to-cyber-security" title="A Beginner-Friendly Introduction To Cyber Security"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667630189284/8fjx6YKns.png" alt="A Beginner-Friendly Introduction To Cyber Security" width="250px" align="right" /></a>
+<a href="https://programmingfire.com/a-beginner-friendly-introduction-to-cyber-security" title="A Beginner-Friendly Introduction To Cyber Security"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667630189284/8fjx6YKns.png" alt="A Beginner-Friendly Introduction To Cyber Security" width="250px" align="left" /></a>
 <a href="https://programmingfire.com/a-beginner-friendly-introduction-to-cyber-security" title="A Beginner-Friendly Introduction To Cyber Security"><strong>A Beginner-Friendly Introduction To Cyber Security</strong></a>
 <br/> Cyber Security is a fascinating field of computer science that is growing more important every day. As our lives become increasingly dependent on technology, the need for people who can protect our data and systems from attack becomes more urgent. In... </p> <br/> <br/>
 <p align="left">
-<a href="https://programmingfire.com/picoctf-2022-forensics-file-types" title="picoCTF 2022: Forensics: File types"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666597360137/vKJQ9tzJ-.png" alt="picoCTF 2022: Forensics: File types" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/picoctf-2022-forensics-file-types" title="picoCTF 2022: Forensics: File types"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666597360137/vKJQ9tzJ-.png" alt="picoCTF 2022: Forensics: File types" width="250px" align="right" /></a>
 <a href="https://programmingfire.com/picoctf-2022-forensics-file-types" title="picoCTF 2022: Forensics: File types"><strong>picoCTF 2022: Forensics: File types</strong></a>
 <br/> Introduction
 Challenge: File types
@@ -49,20 +53,10 @@ You can download the file from here.
 Solution
 The file that was given, I am... </p> <br/> <br/>
 <p align="left">
-<a href="https://programmingfire.com/picoctf-2022-reverse-engineering-file-run-2" title="picoCTF 2022: Reverse Engineering: file-run-2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665923827194/Uc4t3QQ2z.png" alt="picoCTF 2022: Reverse Engineering: file-run-2" width="250px" align="right" /></a>
+<a href="https://programmingfire.com/picoctf-2022-reverse-engineering-file-run-2" title="picoCTF 2022: Reverse Engineering: file-run-2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665923827194/Uc4t3QQ2z.png" alt="picoCTF 2022: Reverse Engineering: file-run-2" width="250px" align="left" /></a>
 <a href="https://programmingfire.com/picoctf-2022-reverse-engineering-file-run-2" title="picoCTF 2022: Reverse Engineering: file-run-2"><strong>picoCTF 2022: Reverse Engineering: file-run-2</strong></a>
 <br/> Introduction
 Challenge: file-run-2
-Category: Reverse Engineering
-Description:
-A program has been provided to you, what happens if you try to run it on the command line? Download the program here.
-Solution
-We have been provided with a file called run.... </p> <br/> <br/>
-<p align="left">
-<a href="https://programmingfire.com/picoctf-2022-reverse-engineering-file-run-1" title="picoCTF 2022: Reverse Engineering: file-run-1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665923137924/jrxeSSBAp.png" alt="picoCTF 2022: Reverse Engineering: file-run-1" width="250px" align="left" /></a>
-<a href="https://programmingfire.com/picoctf-2022-reverse-engineering-file-run-1" title="picoCTF 2022: Reverse Engineering: file-run-1"><strong>picoCTF 2022: Reverse Engineering: file-run-1</strong></a>
-<br/> Introduction
-Challenge: file-run-1
 Category: Reverse Engineering
 Description:
 A program has been provided to you, what happens if you try to run it on the command line? Download the program here.
