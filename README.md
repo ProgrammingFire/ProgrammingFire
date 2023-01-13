@@ -29,27 +29,29 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://programmingfire.com/why-svelte-is-becoming-the-next-react-and-i-love-it" title="Why Svelte is becoming the next React and I love it"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672483009952/1011e7ff-c252-40d3-a3ab-218dc66a86ac.png" alt="Why Svelte is becoming the next React and I love it" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/gradio-create-ml-web-apps-ui-with-python" title="Gradio: Create ML Web Apps UI with Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673593265633/27bd6e83-0364-4abb-9a9c-734148f97643.png" alt="Gradio: Create ML Web Apps UI with Python" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/gradio-create-ml-web-apps-ui-with-python" title="Gradio: Create ML Web Apps UI with Python"><strong>Gradio: Create ML Web Apps UI with Python</strong></a>
+<br/> What Does Gradio Do?
+One of the best ways to share your machine learning model, API, or data science workflow with others is to create an interactive app that allows your users or colleagues to try out the demo in their browsers.
+Gradio allows you to... </p> <br/> <br/>
+<p align="left">
+<a href="https://programmingfire.com/why-svelte-is-becoming-the-next-react-and-i-love-it" title="Why Svelte is becoming the next React and I love it"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672483009952/1011e7ff-c252-40d3-a3ab-218dc66a86ac.png" alt="Why Svelte is becoming the next React and I love it" width="250px" align="right" /></a>
 <a href="https://programmingfire.com/why-svelte-is-becoming-the-next-react-and-i-love-it" title="Why Svelte is becoming the next React and I love it"><strong>Why Svelte is becoming the next React and I love it</strong></a>
 <br/> Nowadays, I see Svelte becoming more and more popular. I thought to try it and I quickly realized that it's awesome, but then, I wonder that "is Svelte gonna replace React?". We will find that out in this article, so let's get started.
 Why Svelte is ... </p> <br/> <br/>
 <p align="left">
-<a href="https://programmingfire.com/top-5-common-web-application-vulnerabilities" title="Top 5 Common Web Application Vulnerabilities"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671343895173/JIXJIH7We.png" alt="Top 5 Common Web Application Vulnerabilities" width="250px" align="right" /></a>
+<a href="https://programmingfire.com/top-5-common-web-application-vulnerabilities" title="Top 5 Common Web Application Vulnerabilities"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671343895173/JIXJIH7We.png" alt="Top 5 Common Web Application Vulnerabilities" width="250px" align="left" /></a>
 <a href="https://programmingfire.com/top-5-common-web-application-vulnerabilities" title="Top 5 Common Web Application Vulnerabilities"><strong>Top 5 Common Web Application Vulnerabilities</strong></a>
 <br/> Web application attacks are involved in 26% of all breaches, and app security is a concern for enterprises. The size of a startup does not exempt it from cyber-attacks – that's because hackers constantly scan the internet looking for flaws. It takes ... </p> <br/> <br/>
 <p align="left">
-<a href="https://programmingfire.com/explore-the-new-era-of-static-sites-generation-astro" title="Explore the New Era of Static Sites Generation: Astro"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670865277427/3QNscwoYY.png" alt="Explore the New Era of Static Sites Generation: Astro" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/explore-the-new-era-of-static-sites-generation-astro" title="Explore the New Era of Static Sites Generation: Astro"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670865277427/3QNscwoYY.png" alt="Explore the New Era of Static Sites Generation: Astro" width="250px" align="right" /></a>
 <a href="https://programmingfire.com/explore-the-new-era-of-static-sites-generation-astro" title="Explore the New Era of Static Sites Generation: Astro"><strong>Explore the New Era of Static Sites Generation: Astro</strong></a>
 <br/> Do you know what is the hottest stuff going on in the Web Dev Community, it's JAM Stack, Static Sites, and stuff like that. People are more into creating their portfolios, blogs, podcasts, etc. where you don't need a lot of business-level technologie... </p> <br/> <br/>
 <p align="left">
-<a href="https://programmingfire.com/the-top-6-amazing-devops-and-cloud-tools-to-try-once" title="The top 6 amazing DevOps and Cloud tools to try once"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667904694257/x4aF42j5i.png" alt="The top 6 amazing DevOps and Cloud tools to try once" width="250px" align="right" /></a>
+<a href="https://programmingfire.com/the-top-6-amazing-devops-and-cloud-tools-to-try-once" title="The top 6 amazing DevOps and Cloud tools to try once"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667904694257/x4aF42j5i.png" alt="The top 6 amazing DevOps and Cloud tools to try once" width="250px" align="left" /></a>
 <a href="https://programmingfire.com/the-top-6-amazing-devops-and-cloud-tools-to-try-once" title="The top 6 amazing DevOps and Cloud tools to try once"><strong>The top 6 amazing DevOps and Cloud tools to try once</strong></a>
 <br/> Over the years, the tools, practices, and culture associated with DevOps have drastically improved – in order to make this very lucrative niche of professionals to be guided and supported by the right mindset and of course technology.
 The idea behind... </p> <br/> <br/>
-<p align="left">
-<a href="https://programmingfire.com/a-beginner-friendly-introduction-to-cyber-security" title="A Beginner-Friendly Introduction To Cyber Security"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667630189284/8fjx6YKns.png" alt="A Beginner-Friendly Introduction To Cyber Security" width="250px" align="left" /></a>
-<a href="https://programmingfire.com/a-beginner-friendly-introduction-to-cyber-security" title="A Beginner-Friendly Introduction To Cyber Security"><strong>A Beginner-Friendly Introduction To Cyber Security</strong></a>
-<br/> Cyber Security is a fascinating field of computer science that is growing more important every day. As our lives become increasingly dependent on technology, the need for people who can protect our data and systems from attack becomes more urgent. In... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
