@@ -2,7 +2,7 @@
 📚 I’m currently learning for CCNA
 
 <div align="left">
-  <a href="https://app.daily.dev/programmingfire"><img align="right" width="240" src="https://api.daily.dev/devcards/86dba213ca724d5892a77340b0410d32.png?r=orz" alt="Nouman Rahman's Dev Card"/></a>
+  <a href="https://app.daily.dev/programmingfire"><img align="right" width="240" src="https://api.daily.dev/devcards/86dba213ca724d5892a77340b0410d32.png?r=jab" alt="Nouman Rahman's Dev Card"/></a>
 </div>
 
 ---
