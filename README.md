@@ -14,11 +14,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [my ultimate workflow &lpar;dwm, tmux, vim&rpar; | programmingfire](https://www.youtube.com/watch?v=LVEqwUCeRKc)
 - [GraphQL in Node.JS with Apollo and TypeScript](https://www.youtube.com/watch?v=ScvRw00L-5w)
 - [02 - Setup NestJS, Angular And MongoDB Atlas | MEAN Stack Project Course | ProgrammingFire](https://www.youtube.com/watch?v=PffxVIxLGMU)
 - [01 - Introduction to MEAN Stack | MEAN Stack Project Course | ProgrammingFire](https://www.youtube.com/watch?v=uCbo1Ix3SIA)
 - [PHP Tutorial For Beginners | Learn PHP | ProgrammingFire](https://www.youtube.com/watch?v=YQqQHKgmKGc)
-- [Create A REST API In NestJS ! | NestJS Tutorial For Beginners | ProgrammingFire](https://www.youtube.com/watch?v=q488cm7UQIo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/ProgrammingFire)
