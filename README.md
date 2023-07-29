@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ProgrammingFire
+# 👋 Hi, I’m Nouman Rahman 🚀 🤖 (@ProgrammingFire)
 📚 I’m currently learning Go and Rust
 
 <div align="left">
