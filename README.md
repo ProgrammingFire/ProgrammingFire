@@ -14,11 +14,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Learning Rust | Building a Command Line Application &lpar;minigrep&rpar; | ASMR](https://www.youtube.com/watch?v=1E6cDAm38YY)
 - [my ultimate workflow &lpar;dwm, tmux, vim&rpar; | programmingfire](https://www.youtube.com/watch?v=LVEqwUCeRKc)
 - [GraphQL in Node.JS with Apollo and TypeScript](https://www.youtube.com/watch?v=ScvRw00L-5w)
 - [02 - Setup NestJS, Angular And MongoDB Atlas | MEAN Stack Project Course | ProgrammingFire](https://www.youtube.com/watch?v=PffxVIxLGMU)
 - [01 - Introduction to MEAN Stack | MEAN Stack Project Course | ProgrammingFire](https://www.youtube.com/watch?v=uCbo1Ix3SIA)
-- [PHP Tutorial For Beginners | Learn PHP | ProgrammingFire](https://www.youtube.com/watch?v=YQqQHKgmKGc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/ProgrammingFire)
