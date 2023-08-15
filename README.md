@@ -7,7 +7,7 @@
 
 ---
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingfire&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=programmingfire&theme=catppuccin-mocha)](https://git.io/streak-stats) 
 
 ---
 
