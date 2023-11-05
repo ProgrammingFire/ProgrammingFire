@@ -7,7 +7,7 @@
 
 ---
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=programmingfire&theme=catppuccin-mocha)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=programmingfire&theme=ayu-mirage&hide_border=true&border_radius=5.4&background=45%2C000000%2C242424)](https://git.io/streak-stats)
 
 ---
 
