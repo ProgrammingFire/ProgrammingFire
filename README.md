@@ -1,4 +1,16 @@
 # 👋 Hi, I’m Nouman Rahman 🚀 🤖 (@ProgrammingFire)
+13 Years Old 🔥
+<br />
+Web Developer 💻
+<br />
+UI/UX Designer 🎨
+<br />
+Writes at [programmingfire.com](https://programmingfire.com) 📝
+<br />
+Trying to make something 🚀
+<br />
+Next.js, tRPC, Tailwind, TypeScript ⚙️
+<br />
 📚 I’m currently building SaaS projects (failed!)
 
 <div align="left">
