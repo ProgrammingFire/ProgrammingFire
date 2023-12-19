@@ -41,27 +41,28 @@ Next.js, tRPC, Tailwind, TypeScript ⚙️
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://programmingfire.com/the-best-typography-hacks-to-level-up-your-designs" title="The Best Typography Hacks to Level Up Your Designs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1702482581082/7b981a7c-7131-4c42-8010-664ca81fee15.png" alt="The Best Typography Hacks to Level Up Your Designs" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/kickstart-your-journey-with-indie-hacking" title="Kickstart Your Journey with Indie Hacking"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1702985105397/6ce7d2c1-b848-44e8-ab5d-223023e1c9f1.jpeg" alt="Kickstart Your Journey with Indie Hacking" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/kickstart-your-journey-with-indie-hacking" title="Kickstart Your Journey with Indie Hacking"><strong>Kickstart Your Journey with Indie Hacking</strong></a>
+<br/> Embarking on an indie hacking journey can be both thrilling and daunting, as you dive into the world of entrepreneurship armed with nothing but your dreams and a hunger for success.
+You crave the freedom to build your own business from scratch, but w... </p> <br/> <br/>
+<p align="left">
+<a href="https://programmingfire.com/the-best-typography-hacks-to-level-up-your-designs" title="The Best Typography Hacks to Level Up Your Designs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1702482581082/7b981a7c-7131-4c42-8010-664ca81fee15.png" alt="The Best Typography Hacks to Level Up Your Designs" width="250px" align="right" /></a>
 <a href="https://programmingfire.com/the-best-typography-hacks-to-level-up-your-designs" title="The Best Typography Hacks to Level Up Your Designs"><strong>The Best Typography Hacks to Level Up Your Designs</strong></a>
 <br/> Typography
 The choice of fonts, font sizes, and font styles plays a significant role in UI/UX design. Typography sets the tone and personality of the interface, enhances readability, and guides users through the content. It is essential to select fon... </p> <br/> <br/>
 <p align="left">
-<a href="https://programmingfire.com/clerk-vs-nextauth-which-one-to-use-and-when" title="Clerk vs. NextAuth: Which one to use and when?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701090537734/6bdca548-b66d-4cea-bea4-13a9b7303025.png" alt="Clerk vs. NextAuth: Which one to use and when?" width="250px" align="right" /></a>
+<a href="https://programmingfire.com/clerk-vs-nextauth-which-one-to-use-and-when" title="Clerk vs. NextAuth: Which one to use and when?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701090537734/6bdca548-b66d-4cea-bea4-13a9b7303025.png" alt="Clerk vs. NextAuth: Which one to use and when?" width="250px" align="left" /></a>
 <a href="https://programmingfire.com/clerk-vs-nextauth-which-one-to-use-and-when" title="Clerk vs. NextAuth: Which one to use and when?"><strong>Clerk vs. NextAuth: Which one to use and when?</strong></a>
 <br/> Nowadays, Authentication is one of the most simple and complex things in Web Development. Two prominent authentication solutions that have gained traction among developers are Clerk and NextAuth. While both offer robust authentication capabilities, t... </p> <br/> <br/>
 <p align="left">
-<a href="https://programmingfire.com/do-we-really-need-a-backend-now-can-we-build-applications-without-backend-with-nextjs-14" title="Do we really need a backend now? Can we build applications without backend with Next.js 14?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1699168176072/a86f9b83-17fe-44ae-b64c-054e2654033b.png" alt="Do we really need a backend now? Can we build applications without backend with Next.js 14?" width="250px" align="left" /></a>
+<a href="https://programmingfire.com/do-we-really-need-a-backend-now-can-we-build-applications-without-backend-with-nextjs-14" title="Do we really need a backend now? Can we build applications without backend with Next.js 14?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1699168176072/a86f9b83-17fe-44ae-b64c-054e2654033b.png" alt="Do we really need a backend now? Can we build applications without backend with Next.js 14?" width="250px" align="right" /></a>
 <a href="https://programmingfire.com/do-we-really-need-a-backend-now-can-we-build-applications-without-backend-with-nextjs-14" title="Do we really need a backend now? Can we build applications without backend with Next.js 14?"><strong>Do we really need a backend now? Can we build applications without backend with Next.js 14?</strong></a>
 <br/> In the rapidly evolving landscape of web development, the role of the backend has been a critical component for many years. However, with the advent of modern frameworks like Next.js 14, the question arises: "Do we really need a Backend now? Can we b... </p> <br/> <br/>
 <p align="left">
-<a href="https://programmingfire.com/the-modern-web-explained-to-a-5-year-old" title="The Modern Web Explained to a 5-Year-Old"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696844471614/d00fca6c-8675-4c09-af80-a12357f2063e.png" alt="The Modern Web Explained to a 5-Year-Old" width="250px" align="right" /></a>
+<a href="https://programmingfire.com/the-modern-web-explained-to-a-5-year-old" title="The Modern Web Explained to a 5-Year-Old"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696844471614/d00fca6c-8675-4c09-af80-a12357f2063e.png" alt="The Modern Web Explained to a 5-Year-Old" width="250px" align="left" /></a>
 <a href="https://programmingfire.com/the-modern-web-explained-to-a-5-year-old" title="The Modern Web Explained to a 5-Year-Old"><strong>The Modern Web Explained to a 5-Year-Old</strong></a>
 <br/> Hey there, little buddy! Have you ever wondered how the internet works and how websites are made? Well, today we're going to talk about the modern web, and I'll try to explain it to you in a way that's easy to understand.
 Imagine the internet is like... </p> <br/> <br/>
-<p align="left">
-<a href="https://programmingfire.com/another-deep-dive-into-typescripts-design-patterns-and-more" title="Another Deep Dive into TypeScript's Design Patterns and more..."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695745600022/2fa1c61c-a031-4207-8920-961f6978c443.png" alt="Another Deep Dive into TypeScript's Design Patterns and more..." width="250px" align="left" /></a>
-<a href="https://programmingfire.com/another-deep-dive-into-typescripts-design-patterns-and-more" title="Another Deep Dive into TypeScript's Design Patterns and more..."><strong>Another Deep Dive into TypeScript's Design Patterns and more...</strong></a>
-<br/> Design patterns are reusable solutions to common software design problems. They provide proven approaches to structuring code, improving maintainability, and promoting code reusability. In this chapter, we'll explore several design patterns commonly ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
