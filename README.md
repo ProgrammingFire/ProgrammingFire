@@ -26,11 +26,11 @@ Next.js, tRPC, Tailwind, TypeScript ⚙️
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top 6 Typography Hacks to Level Up Your Designs](https://www.youtube.com/watch?v=C_FacYoL-ow)
 - [SOLID Principles Guiding. What? Why? and How? | ProgrammingFire](https://www.youtube.com/watch?v=_QS7-NHerm4)
 - [What is Docker? Why it&#39;s just pure magic? and How to work with it?](https://www.youtube.com/watch?v=8aX13HFghCc)
 - [Learning Rust | Building a Command Line Application &lpar;minigrep&rpar; | ASMR](https://www.youtube.com/watch?v=1E6cDAm38YY)
 - [my ultimate workflow &lpar;dwm, tmux, vim&rpar; | programmingfire](https://www.youtube.com/watch?v=LVEqwUCeRKc)
-- [GraphQL in Node.JS with Apollo and TypeScript](https://www.youtube.com/watch?v=ScvRw00L-5w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/ProgrammingFire)
